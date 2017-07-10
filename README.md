@@ -20,7 +20,6 @@ $ sudo apt-get install pcl-tools
 ```
 
 
-
 ## Documentation for `pcl_helper.py`
 
 `pcl_helper.py` contains useful functions for working with point cloud data with ROS and PCL.  The file itself is located in `Exercise-2/sensor_stick/scripts/`.  While the helper functions are required for Exercise-2, they could also come in handy if you want to explore more deeply in Exercise-1.  Here's a brief description of the contents:
